@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d6e2f0;
+    font-family: sans-serif;
+    text-align: center;
+}
+.card {
+    width: 100%;
+    max-width: 302px;
+    height: 470px;
+    background-color: white;
+    box-shadow: 0px 10px 20px 0px rgb(0, 0, 0, 20%);;
+    position: absolute;
+    margin: auto;     /* to center the box  */
+    inset: 0;        /* all side will be zero */
+    border-radius: 16px;
+    padding: 16px;     /*1 rem*/
+    padding-bottom: 2rem;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+h3 {
+    color:#1f3251;
+    font-size: 20px;
+}
+p {
+    color: rgb(123, 135, 157);
+    font-size: 15px;
+}
